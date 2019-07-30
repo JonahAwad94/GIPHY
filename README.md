@@ -1,4 +1,4 @@
-Gif search app using React.js
+Gif search app using React.js and GIPHY API.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
